@@ -265,7 +265,7 @@ function App() {
         <div className="text-center">
           <p className="text-xl text-gray-400 mb-4">
             Click "Stake" to Stake your MoonDogs NFT Please note that once staked your NFT will be locked for 1 Month before you can UnStake it.
-            This Month's royality pool is set to 400 WCORE, 400 COREW / 5555 Total Supply = 0.72 COREW per month if you stake 1 Moondogs
+            This Month's royality pool is set to 400 WCORE, 400 COREW / 5555 Total Supply = 0.072 COREW per month if you stake 1 Moondogs
           </p>
 
           {currentAccount ? (
